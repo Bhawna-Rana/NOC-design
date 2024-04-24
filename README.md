@@ -50,6 +50,8 @@ The approach used to generate the algorithm/design combines both traditional met
 
 By combining traditional algorithmic thinking with modern techniques like Reinforcement Learning, the approach aimed to address the complexity and dynamic nature of the problem while ensuring practicality and efficiency in the solution design.
 
+<img src = "https://github.com/Bhawna-Rana/NOC-design/blob/main/Mind%20map%20-%20Page%201.jpeg">
+
 ### Proof of Correctness
 1. Adherence to Requirements:
 The pseudocode correctly parses the simulated interface monitor output, identifying transaction types, timestamps, and data transfers.
